@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(55,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(55,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(93,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,41): warning C4244:         with
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,41): warning C4244:         [
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,41): warning C4244:             T=float
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,41): warning C4244:         ]
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,35): warning C4244:         with
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,35): warning C4244:         [
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,35): warning C4244:             T=float
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(118,35): warning C4244:         ]
+C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\main.cpp(134,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  DZ1.vcxproj -> C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\DZ1\x64\Debug\DZ1.exe
